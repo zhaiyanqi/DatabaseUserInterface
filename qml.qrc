@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>xinwei.ttf</file>
+        <file>AdminScene.qml</file>
+        <file>LoginScene.qml</file>
+        <file>SIMScene.qml</file>
+        <file>ShopperTable.qml</file>
+        <file>SalemanScene.qml</file>
+    </qresource>
+</RCC>
